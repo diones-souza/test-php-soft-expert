@@ -61,4 +61,4 @@ Open [http://localhost:8080](http://localhost:8080) with your browser to see the
 
 ## FRONT
 
-Open [https://github.com/diones-souza/test-soft-expert] (https://github.com/diones-souza/test-soft-expert)
+Open [https://github.com/diones-souza/test-next-soft-expert](https://github.com/diones-souza/test-next-soft-expert)
