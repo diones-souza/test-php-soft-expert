@@ -1,0 +1,17 @@
+.env
+
+/vendor/
+
+/log/
+/var/cache/
+/var/logs/
+
+.idea/
+.vscode/
+
+*.swp
+*.swo
+*.bak
+
+/build/
+/bin/
